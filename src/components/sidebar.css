@@ -1,0 +1,32 @@
+.Side {
+  background: lightgray;
+  padding: 20px;
+  height: auto;
+  width: auto;
+}
+
+.left-align {
+  background: rgb(85, 0, 255);
+  color: red;
+  font-weight: bold;
+  padding: 10px;
+  float: left;
+}
+
+.right-align {
+  background: lightgreen;
+  color: blue;
+  font-weight: bold;
+  padding: 10px;
+  float: right;
+}
+
+.Button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
